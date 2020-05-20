@@ -1,5 +1,3 @@
-# aneuploid_pred
-
 Single Sample
 ~~~~~~~~~~~~~
 
